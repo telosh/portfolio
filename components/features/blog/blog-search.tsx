@@ -7,10 +7,9 @@ import { Link } from '@/lib/i18n/routing';
 
 interface BlogSearchProps {
   posts: BlogPost[];
-  locale: string;
 }
 
-export function BlogSearch({ posts, locale }: BlogSearchProps) {
+export function BlogSearch({ posts }: BlogSearchProps) {
   const [query, setQuery] = useState('');
 
   const index = useMemo(() => createSearchIndex(posts), [posts]);

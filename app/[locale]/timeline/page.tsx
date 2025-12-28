@@ -120,7 +120,6 @@ export default async function TimelinePage() {
               year={item.year}
               title={item.title}
               events={item.events}
-              index={index}
               category={item.category}
             />
           ))}

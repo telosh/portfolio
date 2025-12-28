@@ -46,7 +46,7 @@ export async function getAllPosts(locale: string): Promise<BlogPost[]> {
     slugs.map(async (slug) => {
       const post = await getPostBySlug(slug, locale);
       if (!post) return null;
-      const { content, ...postWithoutContent } = post;
+      const { content: _, ...postWithoutContent } = post;
       return postWithoutContent;
     })
   );

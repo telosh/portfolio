@@ -13,7 +13,6 @@ type TimelineItemProps = {
   year: string;
   title: string;
   events: TimelineEvent[];
-  index: number;
   category: 'education' | 'work' | 'certification' | 'personal';
 };
 
@@ -48,7 +47,6 @@ export function TimelineItem({
   year,
   title,
   events,
-  index,
   category,
 }: TimelineItemProps) {
   const ref = useRef<HTMLDivElement>(null);
