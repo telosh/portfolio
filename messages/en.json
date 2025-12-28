@@ -1,0 +1,103 @@
+{
+  "common": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "timeline": "Timeline",
+    "blog": "Blog",
+    "gallery": "Gallery",
+    "languageLabel": "Language",
+    "languageSelect": "Select language",
+    "themeLabel": "Theme",
+    "themeSelect": "Select theme",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "themeSystem": "System"
+  },
+  "home": {
+    "title": "Portfolio",
+    "description": "Frontend Engineer Portfolio",
+    "hero": {
+      "title": "Frontend Engineer",
+      "description": "Building applications that enhance user experience with modern web technologies."
+    },
+    "skillsDescription": "Technical stack I use",
+    "timelineDescription": "Career journey",
+    "galleryDescription": "Daily photos and works"
+  },
+  "about": {
+    "title": "About",
+    "description": "About telosh - Systems Engineer at a Tokyo-based SIer",
+    "role": "Systems Engineer",
+    "bio": "A systems engineer working at a Tokyo-based SIer. I hold multiple Google Cloud certifications and focus on designing and developing cloud-native systems. In my free time, I enjoy playing PC games.",
+    "profileTitle": "Profile",
+    "location": "Hometown",
+    "locationValue": "Miyazaki, Japan",
+    "birthday": "Birthday",
+    "birthdayValue": "May 1, 2001",
+    "age": "Age",
+    "ageUnit": " years old",
+    "work": "Work",
+    "workValue": "Tokyo SIer",
+    "certificationsTitle": "Google Cloud Certifications",
+    "certificationsCount": "Certified",
+    "hobbiesTitle": "Hobbies & Interests",
+    "gaming": "PC Gaming",
+    "gamingDescription": "Mainly playing action and FPS games",
+    "cloudTech": "Cloud Technology",
+    "cloudTechDescription": "Always learning new technologies"
+  },
+  "skills": {
+    "title": "Skills",
+    "description": "Technical Stack"
+  },
+  "timeline": {
+    "title": "Timeline",
+    "description": "Career Timeline",
+    "subtitle": "My journey from student days to now",
+    "education": "Education",
+    "work": "Work Experience",
+    "certification": "Certification",
+    "ongoing": "Continuing to grow and learn",
+    "studentTitle": "Junior & Senior High School",
+    "studentLife": "Attended a boarding school with no smartphones or internet",
+    "tennisMid": "Member of the tennis club in junior high",
+    "soccerHigh": "Member of the soccer club in high school",
+    "hal2020Title": "Enrolled at HAL Tokyo",
+    "halEnroll": "Enrolled in the 4-year IT program at HAL Tokyo",
+    "hormonJob": "Started part-time job at a Yakiniku restaurant because \"the food you serve looks delicious\"",
+    "feStudy": "Dedicated time to studying for the Fundamental IT Engineer Examination",
+    "apexAddiction": "Got really into APEX Legends",
+    "fe2021Title": "FE Certification",
+    "quitHormon": "Quit the restaurant job before summer",
+    "selfStudy": "Searched for IT-related part-time work while self-studying",
+    "fePass": "Passed the Fundamental IT Engineer Examination",
+    "it2022Title": "IT Work Experience",
+    "dataJob": "Started a part-time job focusing on data entry automation using GAS and Python",
+    "shibuyaCrowds": "The Shibuya crowds during commute solidified my desire for fully remote work",
+    "freelance2023Title": "Freelancer",
+    "eccube": "Started part-time at an EC-CUBE company but left due to health issues",
+    "freelanceStart": "Started working as a freelancer in both frontend and backend development",
+    "slackBot": "Built a simple attendance management system with Slack Bot + Next.js (never released)",
+    "jobHunting": "Job hunting",
+    "sier2024Title": "Joined SIer",
+    "sierJoin": "Joined a Tokyo-based SIer",
+    "gcpStudy": "Started studying for various Google Cloud certifications",
+    "aiDev": "Worked on chat app development using Vercel AI SDK and internal RAG chat systems",
+    "security2025Title": "Security Certification",
+    "securityCert": "Obtained Professional Cloud Security Engineer certification"
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Articles",
+    "noPosts": "No posts yet"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "description": "Photo Gallery"
+  },
+  "notFound": {
+    "message": "Page not found",
+    "goHome": "Go home"
+  }
+}

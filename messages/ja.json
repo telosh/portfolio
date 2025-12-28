@@ -1,0 +1,103 @@
+{
+  "common": {
+    "home": "ホーム",
+    "about": "自己紹介",
+    "skills": "スキル",
+    "timeline": "経歴",
+    "blog": "ブログ",
+    "gallery": "ギャラリー",
+    "languageLabel": "言語",
+    "languageSelect": "言語を選択",
+    "themeLabel": "テーマ",
+    "themeSelect": "テーマを選択",
+    "themeLight": "ライト",
+    "themeDark": "ダーク",
+    "themeSystem": "システム"
+  },
+  "home": {
+    "title": "ポートフォリオ",
+    "description": "フロントエンドエンジニアのポートフォリオサイト",
+    "hero": {
+      "title": "フロントエンドエンジニア",
+      "description": "モダンなWeb技術で、ユーザー体験を向上させるアプリケーションを開発しています。"
+    },
+    "skillsDescription": "使用している技術スタック",
+    "timelineDescription": "キャリアの歩み",
+    "galleryDescription": "日常の写真や作品"
+  },
+  "about": {
+    "title": "自己紹介",
+    "description": "teloshについて - 都内SIer勤務のシステムエンジニア",
+    "role": "Systems Engineer",
+    "bio": "都内SIerで働くシステムエンジニアです。Google Cloud の資格を複数保持しており、クラウド技術を活用したシステム設計・開発に取り組んでいます。プライベートではPCゲームを楽しんでいます。",
+    "profileTitle": "プロフィール",
+    "location": "出身地",
+    "locationValue": "宮崎県",
+    "birthday": "誕生日",
+    "birthdayValue": "2001年5月1日",
+    "age": "年齢",
+    "ageUnit": "歳",
+    "work": "勤務地",
+    "workValue": "都内SIer",
+    "certificationsTitle": "Google Cloud 認定資格",
+    "certificationsCount": "資格保持",
+    "hobbiesTitle": "趣味・興味",
+    "gaming": "PCゲーム",
+    "gamingDescription": "主にアクション・FPSゲームをプレイ",
+    "cloudTech": "クラウド技術",
+    "cloudTechDescription": "常に新しい技術を学習中"
+  },
+  "skills": {
+    "title": "スキル",
+    "description": "技術スタック"
+  },
+  "timeline": {
+    "title": "経歴",
+    "description": "キャリアタイムライン",
+    "subtitle": "学生時代から現在までの歩み",
+    "education": "学歴",
+    "work": "職歴・経験",
+    "certification": "資格取得",
+    "ongoing": "これからも成長を続けていきます",
+    "studentTitle": "中高一貫校",
+    "studentLife": "全寮制の学校で、スマホやネットのない生活を経験",
+    "tennisMid": "中学時代はテニス部に所属",
+    "soccerHigh": "高校時代はサッカー部に所属",
+    "hal2020Title": "HAL東京入学",
+    "halEnroll": "HAL東京の4年制情報専攻に入学",
+    "hormonJob": "「君の提供する飯はおいしそうに見える」という理由でホルモン屋さんでアルバイト開始",
+    "feStudy": "基本情報技術者試験の勉強に時間を費やす",
+    "apexAddiction": "APEXにドはまりする時期",
+    "fe2021Title": "基本情報取得",
+    "quitHormon": "夏前にホルモン屋さんのバイトを退職",
+    "selfStudy": "IT関連の業務を知るためアルバイトを探しつつ自己学習に励む",
+    "fePass": "基本情報技術者試験に合格",
+    "it2022Title": "IT実務経験",
+    "dataJob": "GAS・Pythonを活かしたデータ入力業務の改善をメインにするアルバイトを開始",
+    "shibuyaCrowds": "出社するたびに渋谷の人の多さにやられて、就活でのフルリモート志望が決まる",
+    "freelance2023Title": "個人事業主",
+    "eccube": "EC-CUBEを扱う会社でアルバイトを始めるも体調を崩し退職",
+    "freelanceStart": "個人事業主としてフロントエンド・バックエンド問わず活動開始",
+    "slackBot": "Slack Bot + Next.jsでお手軽勤怠管理システムを構築（発表することなくお蔵入り）",
+    "jobHunting": "就職活動",
+    "sier2024Title": "SIer入社",
+    "sierJoin": "都内SIerに就職",
+    "gcpStudy": "Google Cloud各種資格の学習に取り組む",
+    "aiDev": "Vercel AI SDKを活かしたチャットアプリの開発や社内運用向けRAGチャットの作成に従事",
+    "security2025Title": "Security資格取得",
+    "securityCert": "Professional Cloud Security Engineer資格を取得"
+  },
+  "blog": {
+    "title": "ブログ",
+    "description": "記事一覧",
+    "noPosts": "記事がまだありません"
+  },
+  "gallery": {
+    "title": "ギャラリー",
+    "description": "写真ギャラリー"
+  },
+  "notFound": {
+    "message": "ページが見つかりませんでした",
+    "goHome": "ホームに戻る"
+  }
+}
